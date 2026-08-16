@@ -4,6 +4,10 @@ An interactive academic demonstration that combines **human-state sensing**, **A
 
 人の状態センシング、AIによる状態推定、スマートホームIoT制御を組み合わせたインタラクティブな研究デモです。
 
+## Live Demo / 公開デモ
+
+https://qzzzzzzzy.github.io/stress-iot-demo/
+
 ## Research concept / 研究コンセプト
 
 The demo illustrates the following research flow:
